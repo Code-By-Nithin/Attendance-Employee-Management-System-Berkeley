@@ -2,6 +2,9 @@
 
 Designed and developed an internal employee management solution for Berkeley to streamline workforce operations and attendance monitoring. The system enables employee record management, attendance tracking, shift scheduling, payroll support, and report generation. Built to improve operational efficiency, reduce manual errors, and simplify staff monitoring for large-scale workforce management across departments.
 
+<img width="1280" height="832" alt="Gemini_Generated_Image_gtreohgtreohgtre" src="https://github.com/user-attachments/assets/cb634980-fc44-4dbf-a8fc-c2d264005ddf" />
+
+
 ## About
 
 This is a pure PHP, HTML, JavaScript, and CSS project for managing employees and attendance. It includes features for:
