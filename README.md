@@ -34,11 +34,11 @@ This project is intended to run on a local PHP web server with a MySQL database.
 If you want to upload this project to GitHub, use the following commands from the project folder:
 
 ```bash
-cd "c:/Users/91854/Downloads/bk-file/berkeley_attendance"
+cd "c:/Users/91854/Downloads/project-1/project-file"
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/Code-By-Nithin/Attendance-Employee-Management-System-Berkeley.git
+git remote add origin https://github.com/user-1/project-file.git
 git push -u origin main
 ```
 
